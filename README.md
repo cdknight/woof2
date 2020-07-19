@@ -15,7 +15,7 @@ Once `woof2.rb` has been appropriately placed in your `$PATH`, you can just use 
 ``` sh
 woof path/to/file
 ```
-(Replace woof with whatever your called your executable from before. If you chose not to copy the script to somewhere in your path, you can just do `./woof2.rb` or `ruby woof2.rb` and the first argument as the file you want to upload as shown above.)
+(Replace `woof` with whatever your called your executable from before. If you chose not to copy the script to somewhere in your path, you can just do `./woof2.rb` or `ruby woof2.rb` and the first argument as the file you want to upload as shown above.)
 
 The script will then upload your file to doggo.ninja, and subsequently notify you with a notification message, and copy the link to the new upload to your clipboard. That's it.
 

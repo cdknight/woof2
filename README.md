@@ -6,7 +6,7 @@ A reimplementation of doggo.ninja's "woof" bash script in Ruby, because the bash
 
 1. Install the gems ("globally" for now, unfortunately). I think `gem install gir_ffi faraday mimemagic json clipboard` should work, but I installed the gems as I developed the program, so this might be wrong. Please open an issue if that is the case.
 2. Add your token to the `token` variable. 
-3. Mark the Ruby file as executable and maybe rename it to `woof`. Put it somewhere in your `$PATH`. Example commands: `chmod +x woof.rb` and `mv woof2.rb ~/.local/bin/woof`
+3. (Optionally) Mark the Ruby file as executable and maybe rename it to `woof`. Put it somewhere in your `$PATH`. Example commands: `chmod +x woof.rb` and `mv woof2.rb ~/.local/bin/woof`
 
 ## Using it
 
